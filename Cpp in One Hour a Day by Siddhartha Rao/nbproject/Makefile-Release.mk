@@ -305,6 +305,7 @@ OBJECTFILES= \
 	${OBJECTDIR}/_ext/5c0/9.8_NoCopyConstructor_CopyMyString.o \
 	${OBJECTDIR}/_ext/5c0/9.9_CopyConstructor_MyString.o \
 	${OBJECTDIR}/_ext/5c0/9.9.1_CopyConstructor_MyString_Twice.o \
+	${OBJECTDIR}/_ext/5c0/9.9.2_CopyConstructor_MyStringnoTwice_Move_Constructor.o \
 	${OBJECTDIR}/_ext/5c0/9.Ex3.o \
 	${OBJECTDIR}/_ext/5c0/9.Ex4_Circle.o
 
@@ -1682,6 +1683,11 @@ ${OBJECTDIR}/_ext/5c0/9.9.1_CopyConstructor_MyString_Twice.o: ../9.9.1\ CopyCons
 	${MKDIR} -p ${OBJECTDIR}/_ext/5c0
 	${RM} "$@.d"
 	$(COMPILE.cc) -O2 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/5c0/9.9.1_CopyConstructor_MyString_Twice.o ../9.9.1\ CopyConstructor_MyString_Twice.cpp
+
+${OBJECTDIR}/_ext/5c0/9.9.2_CopyConstructor_MyStringnoTwice_Move_Constructor.o: ../9.9.2\ CopyConstructor_MyStringnoTwice_Move_Constructor.cpp
+	${MKDIR} -p ${OBJECTDIR}/_ext/5c0
+	${RM} "$@.d"
+	$(COMPILE.cc) -O2 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/5c0/9.9.2_CopyConstructor_MyStringnoTwice_Move_Constructor.o ../9.9.2\ CopyConstructor_MyStringnoTwice_Move_Constructor.cpp
 
 ${OBJECTDIR}/_ext/5c0/9.Ex3.o: ../9.Ex3.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/5c0
