@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="f1" displayName="LESSON01" projectFiles="true">
+        <itemPath>../1.1 Hello World.cpp</itemPath>
+        <itemPath>../1.Quiz4.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f14" displayName="LESSON02" projectFiles="true">
+        <itemPath>../2.1 HelloWorldAnalysis.cpp</itemPath>
+        <itemPath>../2.2 UsingNamespaceDecl.cpp</itemPath>
+        <itemPath>../2.3 UsingRestricted.cpp</itemPath>
+        <itemPath>../2.4 FirstFunction_Demo_cout.cpp</itemPath>
+        <itemPath>../2.5 FunctionValueReturnedFromMain.cpp</itemPath>
+        <itemPath>../2.6 Anatomy_BasicIO.cpp</itemPath>
+        <itemPath>../2.Ex3.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f2" displayName="LESSON03" projectFiles="true">
+        <itemPath>../3.1 VariablesDemo_MultiplyTwoNumbers.cpp</itemPath>
+        <itemPath>../3.2 VariablesScopeDemo.cpp</itemPath>
+        <itemPath>../3.3 GlobalVariablesDemo.cpp</itemPath>
+        <itemPath>../3.4 Operators_Signed_Unsigned_Overflow.cpp</itemPath>
+        <itemPath>../3.5 Using_sizeof.cpp</itemPath>
+        <itemPath>../3.6 UsingAuto.cpp</itemPath>
+        <itemPath>../3.7 Demo_Constants.cpp</itemPath>
+        <itemPath>../3.8 using constexpr.cpp</itemPath>
+        <itemPath>../3.9 Using_enum_Constants.cpp</itemPath>
+        <itemPath>../3.Ex3 Calculate_Area_Circumference.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f22" displayName="LESSON04" projectFiles="true">
+        <itemPath>../4.1 AccessingArrayElements.cpp</itemPath>
+        <itemPath>../4.2 WritingToArrayElements.cpp</itemPath>
+        <itemPath>../4.3 Declaring_Initializing_MD_Arrays.cpp</itemPath>
+        <itemPath>../4.4 Dynamic_Array_std_vector.cpp</itemPath>
+        <itemPath>../4.5 C-Style_HelloWorld.cpp</itemPath>
+        <itemPath>../4.6 UserInput_C_Style_String.cpp</itemPath>
+        <itemPath>../4.7 CPPStrings_std_string.cpp</itemPath>
+        <itemPath>../4.Ex1.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f23" displayName="LESSON05" projectFiles="true">
+        <itemPath>../5.1 Check_ArithmeticOperators.cpp</itemPath>
+        <itemPath>../5.10 Operator_sizeof.cpp</itemPath>
+        <itemPath>../5.2 Operators_PostFix_Prefix.cpp</itemPath>
+        <itemPath>../5.3 Operators_Relational_Equality.cpp</itemPath>
+        <itemPath>../5.4 Operators_Logical_AND_OR.cpp</itemPath>
+        <itemPath>../5.5 Operators_Logical_And_Or_If.cpp</itemPath>
+        <itemPath>../5.6 Operators_Logical_OR.cpp</itemPath>
+        <itemPath>../5.7 Operators_Bitwise.cpp</itemPath>
+        <itemPath>../5.8 Operators_BitwiseShift.cpp</itemPath>
+        <itemPath>../5.9 Operators_CompoundOperators.cpp</itemPath>
+        <itemPath>../5.Ex3.cpp</itemPath>
+        <itemPath>../5.Quiz5.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f24" displayName="LESSON06" projectFiles="true">
+        <itemPath>../6.1 Multiply_or_Add_if_else.cpp</itemPath>
+        <itemPath>../6.10 EnterValuesInAnArray_DisplayArray_for_loop.cpp</itemPath>
+        <itemPath>../6.11 MultiplyAdd_for_loop.cpp</itemPath>
+        <itemPath>../6.12 RangeBasedFor.cpp</itemPath>
+        <itemPath>../6.13 MultiplyAdd_InfiniteLoop_break_continue.cpp</itemPath>
+        <itemPath>../6.14 CrossMultiplyTwoArrays_NestedLoops.cpp</itemPath>
+        <itemPath>../6.15 IteratingMDArrays_nested_loops.cpp</itemPath>
+        <itemPath>../6.16 FibonacciSeries_usingLoops.cpp</itemPath>
+        <itemPath>../6.2 checkbounds.cpp</itemPath>
+        <itemPath>../6.3 Nested_if_check_Divisor.cpp</itemPath>
+        <itemPath>../6.4 WhatDaysOfWeekMean_if_else.cpp</itemPath>
+        <itemPath>../6.5 DaysOfWeek_switch_case.cpp</itemPath>
+        <itemPath>../6.6 ConditionalOperator_TernaryOperator.cpp</itemPath>
+        <itemPath>../6.7 MultiplyOrAdd_goto.cpp</itemPath>
+        <itemPath>../6.8 MultiplyOrAdd_while.cpp</itemPath>
+        <itemPath>../6.9 MultiplyAdd_do_while.cpp</itemPath>
+        <itemPath>../6.Ex1.cpp</itemPath>
+        <itemPath>../6.Ex2.cpp</itemPath>
+        <itemPath>../6.Ex3.cpp</itemPath>
+        <itemPath>../6.Ex4.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f25" displayName="LESSON07" projectFiles="true">
+        <itemPath>../7.1 Functions_ComputingAreaCircumference.cpp</itemPath>
+        <itemPath>../7.10 Functions_Inline.cpp</itemPath>
+        <itemPath>../7.11 auto function return.cpp</itemPath>
+        <itemPath>../7.12 Functions_Lambda.cpp</itemPath>
+        <itemPath>../7.2 Functions_MultipleParameters_Cylinder.cpp</itemPath>
+        <itemPath>../7.3 Functions_SayingHelloWithoutParamsReturnValue.cpp</itemPath>
+        <itemPath>../7.4 Functions_DefaulParameters_Pi.cpp</itemPath>
+        <itemPath>../7.5 Functions_Recursive_Fibonacci.cpp</itemPath>
+        <itemPath>../7.6 Functions_MultipleReturns.cpp</itemPath>
+        <itemPath>../7.7 Functions_Overloaded_Area_CyclinderCircle.cpp</itemPath>
+        <itemPath>../7.8 Functions_Passing_Arrays.cpp</itemPath>
+        <itemPath>../7.9 Functions_PassingReference.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f26" displayName="LESSON08" projectFiles="true">
+        <itemPath>../8.1 Pointers_ReferencingOperator.cpp</itemPath>
+        <itemPath>../8.10 Pointers_const_calculatingsquare.cpp</itemPath>
+        <itemPath>../8.11 Pointers_ArrayVar_IsAddressOfFirst.cpp</itemPath>
+        <itemPath>../8.12 Pointers_Arrays_Similarities.cpp</itemPath>
+        <itemPath>../8.13 Pointers_InvalidPtr.cpp</itemPath>
+        <itemPath>../8.14 Pointers_BetterProgramming.cpp</itemPath>
+        <itemPath>../8.15 Pointers_new_exceptionhandler.cpp</itemPath>
+        <itemPath>../8.16 Pointers_new_nothrow.cpp</itemPath>
+        <itemPath>../8.17 References_Declaring_Initializing.cpp</itemPath>
+        <itemPath>../8.18 References_PassingArgsToFunctions.cpp</itemPath>
+        <itemPath>../8.19 References_Const.cpp</itemPath>
+        <itemPath>../8.2 Pointers_AssigningRefToPtr.cpp</itemPath>
+        <itemPath>../8.3 Pointers_OnePtrManyIntegers.cpp</itemPath>
+        <itemPath>../8.4 Pointers_Dereferencing_or_IndirectionOperator.cpp</itemPath>
+        <itemPath>../8.5 Pointers_AssigningUsingDerefOp.cpp</itemPath>
+        <itemPath>../8.6 Pointers_sizeof_Test.cpp</itemPath>
+        <itemPath>../8.7 Pointers_Using_new_delete.cpp</itemPath>
+        <itemPath>../8.8 Pointers_Using_new_delete_char_array.cpp</itemPath>
+        <itemPath>../8.9 Pointer_using_new_delete_multiple_elements.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f27" displayName="LESSON09" projectFiles="true">
+        <itemPath>../9.1 ClassHuman.cpp</itemPath>
+        <itemPath>../9.10 Singleton.cpp</itemPath>
+        <itemPath>../9.11 MonsterDB_ForceConstructionOnHeap.cpp</itemPath>
+        <itemPath>../9.12 explicit constructors.cpp</itemPath>
+        <itemPath>../9.13 SizeOfClass.cpp</itemPath>
+        <itemPath>../9.14 FriendFunctions.cpp</itemPath>
+        <itemPath>../9.15 FriendClass.cpp</itemPath>
+        <itemPath>../9.16 UsingUnions.cpp</itemPath>
+        <itemPath>../9.17 AggregateInitializationClasses.cpp</itemPath>
+        <itemPath>../9.18 constexpr class.cpp</itemPath>
+        <itemPath>../9.2 DemonstratesAbstraction_HidesTrueAge.cpp</itemPath>
+        <itemPath>../9.3 ClassWithConstructors.cpp</itemPath>
+        <itemPath>../9.4 Overloaded Constructors.cpp</itemPath>
+        <itemPath>../9.5 OnlyOverloadedConstructor_NoDefault.cpp</itemPath>
+        <itemPath>../9.6 Constructor_InitializationLists.cpp</itemPath>
+        <itemPath>../9.7 MyString_Destructor.cpp</itemPath>
+        <itemPath>../9.8 NoCopyConstructor_CopyMyString.cpp</itemPath>
+        <itemPath>../9.9 CopyConstructor_MyString.cpp</itemPath>
+        <itemPath>../9.9.1 CopyConstructor_MyString_Twice.cpp</itemPath>
+        <itemPath>../9.Ex3.cpp</itemPath>
+        <itemPath>../9.Ex4 Circle.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f3" displayName="LESSON10" projectFiles="true">
+        <itemPath>../10.1 SimplePisceanClassHeirarchy.cpp</itemPath>
+        <itemPath>../10.10 MultipleInheritance_Platypus.cpp</itemPath>
+        <itemPath>../10.2 Fish_With_protected.cpp</itemPath>
+        <itemPath>../10.3 Fish_WithBaseClassInstantiation.cpp</itemPath>
+        <itemPath>../10.4 DerivedClassOverridingMethod.cpp</itemPath>
+        <itemPath>../10.5 CarMotor.cpp</itemPath>
+        <itemPath>../10.5 InvokingBaseMethods_InSpiteOverride.cpp</itemPath>
+        <itemPath>../10.6 MethodHiding.cpp</itemPath>
+        <itemPath>../10.6 Protected_SuperCar.cpp</itemPath>
+        <itemPath>../10.7 SequenceConstructionDestruction.cpp</itemPath>
+        <itemPath>../10.Ex1 PlatypusConstructorOrder.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f4" displayName="LESSON11" projectFiles="true">
+        <itemPath>../11.1 InvokingSwimUsingFishPtr.cpp</itemPath>
+        <itemPath>../11.2 FishSwim_VirtualMethod.cpp</itemPath>
+        <itemPath>../11.3 WithoutVirtualDestructors.cpp</itemPath>
+        <itemPath>../11.4 VirtualDestructors.cpp</itemPath>
+        <itemPath>../11.5 SizeofBaseClassWithVirtualFunctions.cpp</itemPath>
+        <itemPath>../11.6 FishABC.cpp</itemPath>
+        <itemPath>../11.7 MultipleInheritance_Platypus.cpp</itemPath>
+        <itemPath>../11.8 VirtualInheritance_Platypus.cpp</itemPath>
+        <itemPath>../11.9 VirtualCopyConstructors.cpp</itemPath>
+        <itemPath>../11.Ex3.cpp</itemPath>
+        <itemPath>../11.Quiz1.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f5" displayName="LESSON12" projectFiles="true">
+        <itemPath>../12.1 Date_PrefixOperatorsIncDec.cpp</itemPath>
+        <itemPath>../12.10 FunctionObjects_Functors_Operator().cpp</itemPath>
+        <itemPath>../12.11 MoveConstructorAssignmentOperator.cpp</itemPath>
+        <itemPath>../12.12 UDLtoKelvin.cpp</itemPath>
+        <itemPath>../12.2 OperatorConstCharPtr.cpp</itemPath>
+        <itemPath>../12.3 UniquePtr.cpp</itemPath>
+        <itemPath>../12.4 BinaryAdditionSubtractionOperator.cpp</itemPath>
+        <itemPath>../12.5 AddSubAssignment.cpp</itemPath>
+        <itemPath>../12.6 Equality_Inequality_Comparison.cpp</itemPath>
+        <itemPath>../12.7 ComparisonLessThanGreaterThanEqualTo.cpp</itemPath>
+        <itemPath>../12.8 MyStringCopyAssignmentOperator.cpp</itemPath>
+        <itemPath>../12.9 ArraySubscriptOperator_MyString.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f6" displayName="LESSON13" projectFiles="true">
+        <itemPath>../13.1 dynamic_cast_Fish.cpp</itemPath>
+        <itemPath>../13.Ex2.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f7" displayName="LESSON14" projectFiles="true">
+        <itemPath>../14.1 MacroConstants.cpp</itemPath>
+        <itemPath>../14.2 MacroFunctions.cpp</itemPath>
+        <itemPath>../14.3 TemplateFunctionGetMax.cpp</itemPath>
+        <itemPath>../14.4 HoldsPairWithMain.cpp</itemPath>
+        <itemPath>../14.5 TemplateSpecialization.cpp</itemPath>
+        <itemPath>../14.6 StaticWithinTemplate.cpp</itemPath>
+        <itemPath>../14.7 VariableTemplatesSum.cpp</itemPath>
+        <itemPath>../14.8 Tuple.cpp</itemPath>
+        <itemPath>../14.9 StaticAssert.cpp</itemPath>
+        <itemPath>../14.Ex6 DisplayVariadicTemp.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f8" displayName="LESSON15" projectFiles="true">
+        <itemPath>../15.1 ContainerIteratorRelationship.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f9" displayName="LESSON16" projectFiles="true">
+        <itemPath>../16.1 STLStringInstantiationCopy.cpp</itemPath>
+        <itemPath>../16.2 AccessingCharElements.cpp</itemPath>
+        <itemPath>../16.3 ConcatenateAdditionAssignmentAppend.cpp</itemPath>
+        <itemPath>../16.4 StringFind.cpp</itemPath>
+        <itemPath>../16.5 StringTruncate.cpp</itemPath>
+        <itemPath>../16.6 StringReverse.cpp</itemPath>
+        <itemPath>../16.7 StringCaseConversion.cpp</itemPath>
+        <itemPath>../16.8 StringLiteralsCPP14.cpp</itemPath>
+        <itemPath>../16.Ex1 IsPalindrom.cpp</itemPath>
+        <itemPath>../16.Ex2 NumVowels.cpp</itemPath>
+        <itemPath>../16.Ex3 AlternateCharUC.cpp</itemPath>
+        <itemPath>../16.Ex4 InsertSpacesInStr.cpp</itemPath>
+        <itemPath>../16.Ex5 FindCharA.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f10" displayName="LESSON17" projectFiles="true">
+        <itemPath>../17.1 InstantiatingStdVector.cpp</itemPath>
+        <itemPath>../17.2 InsertingPushBack.cpp</itemPath>
+        <itemPath>../17.3 VectorInsert.cpp</itemPath>
+        <itemPath>../17.4 VectorElementAccessArray.cpp</itemPath>
+        <itemPath>../17.5 VectorPointerSemantics.cpp</itemPath>
+        <itemPath>../17.6 VectorPopBack.cpp</itemPath>
+        <itemPath>../17.7 SizeCapacity.cpp</itemPath>
+        <itemPath>../17.8 DequeInsertionsDeletions.cpp</itemPath>
+        <itemPath>../17.Ex1 QueryVector.cpp</itemPath>
+        <itemPath>../17.Ex3 VectorPackageDimensions.cpp</itemPath>
+        <itemPath>../17.Ex4 DequeListInit.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f11" displayName="LESSON18" projectFiles="true">
+        <itemPath>../18.1 InstantiatingList.cpp</itemPath>
+        <itemPath>../18.2 InsertingFrontEnd.cpp</itemPath>
+        <itemPath>../18.3 ListInsert.cpp</itemPath>
+        <itemPath>../18.4 ListErase.cpp</itemPath>
+        <itemPath>../18.5 ListReverse.cpp</itemPath>
+        <itemPath>../18.6 ListSort.cpp</itemPath>
+        <itemPath>../18.7 SortContactsList.cpp</itemPath>
+        <itemPath>../18.8 ForwardList.cpp</itemPath>
+        <itemPath>../18.Ex3 InsertVecInList.cpp</itemPath>
+        <itemPath>../18.Ex4 ListStrings.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f12" displayName="LESSON19" projectFiles="true">
+        <itemPath>../19.1 InstantiatingSetMSet.cpp</itemPath>
+        <itemPath>../19.2 InsertSetMSet.cpp</itemPath>
+        <itemPath>../19.3 SetFind.cpp</itemPath>
+        <itemPath>../19.4 MSetErase.cpp</itemPath>
+        <itemPath>../19.5 SetContactsList.cpp</itemPath>
+        <itemPath>../19.6 UnorderedSet.cpp</itemPath>
+        <itemPath>../19.Ex1 ContactsSortedByNums.cpp</itemPath>
+        <itemPath>../19.Ex2 WordAndMeaning.cpp</itemPath>
+        <itemPath>../19.Ex3 SetMSetCompare.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f13" displayName="LESSON20" projectFiles="true">
+        <itemPath>../20.1 InstantiatingMapMultimap.cpp</itemPath>
+        <itemPath>../20.2 InsertingElements.cpp</itemPath>
+        <itemPath>../20.3 MapFind.cpp</itemPath>
+        <itemPath>../20.4 MapErase.cpp</itemPath>
+        <itemPath>../20.5 MultiMapWithPredicate.cpp</itemPath>
+        <itemPath>../20.6 unordered_map_sample.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f1" displayName="LESSON21" projectFiles="true">
+        <itemPath>../21.1 FunctionObjects.cpp</itemPath>
+        <itemPath>../21.2 StatefulFunctionObject.cpp</itemPath>
+        <itemPath>../21.3 UnaryPredicate.cpp</itemPath>
+        <itemPath>../21.4 UsingUnaryPredicate.cpp</itemPath>
+        <itemPath>../21.5 BinaryFunctionMultiplyRanges.cpp</itemPath>
+        <itemPath>../21.6 BinaryPredicateCaseInsensitive.cpp</itemPath>
+        <itemPath>../21.7 BinarySortPredicate.cpp</itemPath>
+        <itemPath>../21.8 LambdaDisplayContainerForEach.cpp</itemPath>
+        <itemPath>../21.Ex1 DoubleElement.cpp</itemPath>
+        <itemPath>../21.Ex3 BinaryPredSort.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f15" displayName="LESSON22" projectFiles="true">
+        <itemPath>../22.1 LambdaDisplayElements.cpp</itemPath>
+        <itemPath>../22.2 LambdaFindIfEvenNumbers.cpp</itemPath>
+        <itemPath>../22.3 LambdaVersionIsMultiple.cpp</itemPath>
+        <itemPath>../22.4 LambdaBinaryFunc.cpp</itemPath>
+        <itemPath>../22.5 LambdaCaseInsensitiveSort.cpp</itemPath>
+        <itemPath>../22.Ex1 LambdaSort.cpp</itemPath>
+        <itemPath>../22.Ex2 LambdAddsNum.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f16" displayName="LESSON23" projectFiles="true">
+        <itemPath>../23.1 UsingFind.cpp</itemPath>
+        <itemPath>../23.10 SortUniqueBS.cpp</itemPath>
+        <itemPath>../23.10 SortUniqueBS2.cpp</itemPath>
+        <itemPath>../23.11 PartitionStablePartition.cpp</itemPath>
+        <itemPath>../23.12 LowerBoundUpperBound.cpp</itemPath>
+        <itemPath>../23.2 UsingCount.cpp</itemPath>
+        <itemPath>../23.3 UsingSearch.cpp</itemPath>
+        <itemPath>../23.4 FillAndFillN.cpp</itemPath>
+        <itemPath>../23.5 UsingGenerate.cpp</itemPath>
+        <itemPath>../23.6 UsingForEach.cpp</itemPath>
+        <itemPath>../23.7 UsingTransform.cpp</itemPath>
+        <itemPath>../23.8 CopyRemoveRemoveIf.cpp</itemPath>
+        <itemPath>../23.9 ReplaceReplaceIf.cpp</itemPath>
+        <itemPath>../23.Ex2 IteratorsCopy.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f17" displayName="LESSON24" projectFiles="true">
+        <itemPath>../24.1 InstantiatingStack.cpp</itemPath>
+        <itemPath>../24.2 StackPushPop.cpp</itemPath>
+        <itemPath>../24.2 StackPushPop2.cpp</itemPath>
+        <itemPath>../24.3 STLQueue.cpp</itemPath>
+        <itemPath>../24.4 QueueOperations.cpp</itemPath>
+        <itemPath>../24.5 InstantiatingPriorityQueue.cpp</itemPath>
+        <itemPath>../24.6 PriorityQueueOperations.cpp</itemPath>
+        <itemPath>../24.7 PriorityQueueWithPredicate.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f18" displayName="LESSON25" projectFiles="true">
+        <itemPath>../25.1 InstantiatingBitSet.cpp</itemPath>
+        <itemPath>../25.2 BitSetOperations.cpp</itemPath>
+        <itemPath>../25.3 InstantiatingVectorBool.cpp</itemPath>
+        <itemPath>../25.4 UsingVectorBool.cpp</itemPath>
+        <itemPath>../25.Ex1 UseBitset.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f19" displayName="LESSON26" projectFiles="true">
+        <itemPath>../26.1 MinimalSmartPtr.cpp</itemPath>
+        <itemPath>../26.2 DeepCopyPtr.cpp</itemPath>
+        <itemPath>../26.3 DestructiveCopyPtr.cpp</itemPath>
+        <itemPath>../26.4 UsingUniquePtr.cpp</itemPath>
+        <itemPath>../26.Ex2 FishUniquePtr.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f20" displayName="LESSON27" projectFiles="true">
+        <itemPath>../27.1 CoutFormattingNumbers.cpp</itemPath>
+        <itemPath>../27.10 BinaryFile.cpp</itemPath>
+        <itemPath>../27.11 StringStream.cpp</itemPath>
+        <itemPath>../27.2 CoutNumPrecision.cpp</itemPath>
+        <itemPath>../27.3 CoutSetWSetFill.cpp</itemPath>
+        <itemPath>../27.4 SimpleInputUsingCin.cpp</itemPath>
+        <itemPath>../27.5 ReadingWordLine.cpp</itemPath>
+        <itemPath>../27.6 CinReadingWordLine.cpp</itemPath>
+        <itemPath>../27.7 UsingGetLine.cpp</itemPath>
+        <itemPath>../27.8 WritingToFile.cpp</itemPath>
+        <itemPath>../27.9 ReadingTextFile.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f21" displayName="LESSON28" projectFiles="true">
+        <itemPath>../28.1 ExceptionSafetyInNew.cpp</itemPath>
+        <itemPath>../28.2 CatchingAType.cpp</itemPath>
+        <itemPath>../28.3 ExceptionOnDivideByZero.cpp</itemPath>
+        <itemPath>../28.4 StackUnwindingOnException.cpp</itemPath>
+        <itemPath>../28.5 CustomException.cpp</itemPath>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+    <itemPath>../README.md</itemPath>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>..</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <standard>10</standard>
+        </cTool>
+        <ccTool>
+          <standard>11</standard>
+        </ccTool>
+      </compileType>
+      <item path="../9.9.1 CopyConstructor_MyString_Twice.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../README.md" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="../1.1 Hello World.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../1.Quiz4.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../10.1 SimplePisceanClassHeirarchy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../10.10 MultipleInheritance_Platypus.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../10.2 Fish_With_protected.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../10.3 Fish_WithBaseClassInstantiation.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../10.4 DerivedClassOverridingMethod.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../10.5 CarMotor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../10.5 InvokingBaseMethods_InSpiteOverride.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../10.6 MethodHiding.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../10.6 Protected_SuperCar.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../10.7 SequenceConstructionDestruction.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../10.Ex1 PlatypusConstructorOrder.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../11.1 InvokingSwimUsingFishPtr.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../11.2 FishSwim_VirtualMethod.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../11.3 WithoutVirtualDestructors.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../11.4 VirtualDestructors.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../11.5 SizeofBaseClassWithVirtualFunctions.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../11.6 FishABC.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../11.7 MultipleInheritance_Platypus.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../11.8 VirtualInheritance_Platypus.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../11.9 VirtualCopyConstructors.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../11.Ex3.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../11.Quiz1.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../12.1 Date_PrefixOperatorsIncDec.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../12.10 FunctionObjects_Functors_Operator().cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../12.11 MoveConstructorAssignmentOperator.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../12.12 UDLtoKelvin.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../12.2 OperatorConstCharPtr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../12.3 UniquePtr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../12.4 BinaryAdditionSubtractionOperator.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../12.5 AddSubAssignment.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../12.6 Equality_Inequality_Comparison.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../12.7 ComparisonLessThanGreaterThanEqualTo.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../12.8 MyStringCopyAssignmentOperator.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../12.9 ArraySubscriptOperator_MyString.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../13.1 dynamic_cast_Fish.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../13.Ex2.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../14.1 MacroConstants.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../14.2 MacroFunctions.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../14.3 TemplateFunctionGetMax.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../14.4 HoldsPairWithMain.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../14.5 TemplateSpecialization.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../14.6 StaticWithinTemplate.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../14.7 VariableTemplatesSum.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../14.8 Tuple.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../14.9 StaticAssert.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../14.Ex6 DisplayVariadicTemp.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../15.1 ContainerIteratorRelationship.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../16.1 STLStringInstantiationCopy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../16.2 AccessingCharElements.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../16.3 ConcatenateAdditionAssignmentAppend.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../16.4 StringFind.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../16.5 StringTruncate.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../16.6 StringReverse.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../16.7 StringCaseConversion.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../16.8 StringLiteralsCPP14.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../16.Ex1 IsPalindrom.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../16.Ex2 NumVowels.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../16.Ex3 AlternateCharUC.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../16.Ex4 InsertSpacesInStr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../16.Ex5 FindCharA.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../17.1 InstantiatingStdVector.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../17.2 InsertingPushBack.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../17.3 VectorInsert.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../17.4 VectorElementAccessArray.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../17.5 VectorPointerSemantics.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../17.6 VectorPopBack.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../17.7 SizeCapacity.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../17.8 DequeInsertionsDeletions.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../17.Ex1 QueryVector.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../17.Ex3 VectorPackageDimensions.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../17.Ex4 DequeListInit.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../18.1 InstantiatingList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../18.2 InsertingFrontEnd.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../18.3 ListInsert.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../18.4 ListErase.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../18.5 ListReverse.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../18.6 ListSort.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../18.7 SortContactsList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../18.8 ForwardList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../18.Ex3 InsertVecInList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../18.Ex4 ListStrings.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../19.1 InstantiatingSetMSet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../19.2 InsertSetMSet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../19.3 SetFind.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../19.4 MSetErase.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../19.5 SetContactsList.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../19.6 UnorderedSet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../19.Ex1 ContactsSortedByNums.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../19.Ex2 WordAndMeaning.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../19.Ex3 SetMSetCompare.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../2.1 HelloWorldAnalysis.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../2.2 UsingNamespaceDecl.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../2.3 UsingRestricted.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../2.4 FirstFunction_Demo_cout.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../2.5 FunctionValueReturnedFromMain.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../2.6 Anatomy_BasicIO.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../2.Ex3.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../20.1 InstantiatingMapMultimap.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../20.2 InsertingElements.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../20.3 MapFind.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../20.4 MapErase.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../20.5 MultiMapWithPredicate.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../20.6 unordered_map_sample.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../21.1 FunctionObjects.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../21.2 StatefulFunctionObject.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../21.3 UnaryPredicate.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../21.4 UsingUnaryPredicate.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../21.5 BinaryFunctionMultiplyRanges.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../21.6 BinaryPredicateCaseInsensitive.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../21.7 BinarySortPredicate.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../21.8 LambdaDisplayContainerForEach.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../21.Ex1 DoubleElement.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../21.Ex3 BinaryPredSort.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../22.1 LambdaDisplayElements.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../22.2 LambdaFindIfEvenNumbers.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../22.3 LambdaVersionIsMultiple.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../22.4 LambdaBinaryFunc.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../22.5 LambdaCaseInsensitiveSort.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../22.Ex1 LambdaSort.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../22.Ex2 LambdAddsNum.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../23.1 UsingFind.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../23.10 SortUniqueBS.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../23.10 SortUniqueBS2.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../23.11 PartitionStablePartition.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../23.12 LowerBoundUpperBound.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../23.2 UsingCount.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../23.3 UsingSearch.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../23.4 FillAndFillN.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../23.5 UsingGenerate.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../23.6 UsingForEach.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../23.7 UsingTransform.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../23.8 CopyRemoveRemoveIf.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../23.9 ReplaceReplaceIf.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../23.Ex2 IteratorsCopy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../24.1 InstantiatingStack.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../24.2 StackPushPop.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../24.2 StackPushPop2.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../24.3 STLQueue.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../24.4 QueueOperations.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../24.5 InstantiatingPriorityQueue.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../24.6 PriorityQueueOperations.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../24.7 PriorityQueueWithPredicate.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../25.1 InstantiatingBitSet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../25.2 BitSetOperations.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../25.3 InstantiatingVectorBool.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../25.4 UsingVectorBool.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../25.Ex1 UseBitset.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../26.1 MinimalSmartPtr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../26.2 DeepCopyPtr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../26.3 DestructiveCopyPtr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../26.4 UsingUniquePtr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../26.Ex2 FishUniquePtr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../27.1 CoutFormattingNumbers.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../27.10 BinaryFile.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../27.11 StringStream.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../27.2 CoutNumPrecision.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../27.3 CoutSetWSetFill.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../27.4 SimpleInputUsingCin.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../27.5 ReadingWordLine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../27.6 CinReadingWordLine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../27.7 UsingGetLine.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../27.8 WritingToFile.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../27.9 ReadingTextFile.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../28.1 ExceptionSafetyInNew.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../28.2 CatchingAType.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../28.3 ExceptionOnDivideByZero.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../28.4 StackUnwindingOnException.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../28.5 CustomException.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../3.1 VariablesDemo_MultiplyTwoNumbers.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../3.2 VariablesScopeDemo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../3.3 GlobalVariablesDemo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../3.4 Operators_Signed_Unsigned_Overflow.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../3.5 Using_sizeof.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../3.6 UsingAuto.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../3.7 Demo_Constants.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../3.8 using constexpr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../3.9 Using_enum_Constants.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../3.Ex3 Calculate_Area_Circumference.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../4.1 AccessingArrayElements.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../4.2 WritingToArrayElements.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../4.3 Declaring_Initializing_MD_Arrays.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../4.4 Dynamic_Array_std_vector.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../4.5 C-Style_HelloWorld.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../4.6 UserInput_C_Style_String.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../4.7 CPPStrings_std_string.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../4.Ex1.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../5.1 Check_ArithmeticOperators.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../5.10 Operator_sizeof.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../5.2 Operators_PostFix_Prefix.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../5.3 Operators_Relational_Equality.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../5.4 Operators_Logical_AND_OR.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../5.5 Operators_Logical_And_Or_If.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../5.6 Operators_Logical_OR.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../5.7 Operators_Bitwise.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../5.8 Operators_BitwiseShift.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../5.9 Operators_CompoundOperators.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../5.Ex3.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../5.Quiz5.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../6.1 Multiply_or_Add_if_else.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../6.10 EnterValuesInAnArray_DisplayArray_for_loop.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../6.11 MultiplyAdd_for_loop.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../6.12 RangeBasedFor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../6.13 MultiplyAdd_InfiniteLoop_break_continue.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../6.14 CrossMultiplyTwoArrays_NestedLoops.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../6.15 IteratingMDArrays_nested_loops.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../6.16 FibonacciSeries_usingLoops.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../6.2 checkbounds.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../6.3 Nested_if_check_Divisor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../6.4 WhatDaysOfWeekMean_if_else.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../6.5 DaysOfWeek_switch_case.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../6.6 ConditionalOperator_TernaryOperator.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../6.7 MultiplyOrAdd_goto.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../6.8 MultiplyOrAdd_while.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../6.9 MultiplyAdd_do_while.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../6.Ex1.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../6.Ex2.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../6.Ex3.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../6.Ex4.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../7.1 Functions_ComputingAreaCircumference.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../7.10 Functions_Inline.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../7.11 auto function return.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../7.12 Functions_Lambda.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../7.2 Functions_MultipleParameters_Cylinder.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../7.3 Functions_SayingHelloWithoutParamsReturnValue.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../7.4 Functions_DefaulParameters_Pi.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../7.5 Functions_Recursive_Fibonacci.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../7.6 Functions_MultipleReturns.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../7.7 Functions_Overloaded_Area_CyclinderCircle.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../7.8 Functions_Passing_Arrays.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../7.9 Functions_PassingReference.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../8.1 Pointers_ReferencingOperator.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../8.10 Pointers_const_calculatingsquare.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../8.11 Pointers_ArrayVar_IsAddressOfFirst.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../8.12 Pointers_Arrays_Similarities.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../8.13 Pointers_InvalidPtr.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../8.14 Pointers_BetterProgramming.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../8.15 Pointers_new_exceptionhandler.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../8.16 Pointers_new_nothrow.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../8.17 References_Declaring_Initializing.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../8.18 References_PassingArgsToFunctions.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../8.19 References_Const.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../8.2 Pointers_AssigningRefToPtr.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../8.3 Pointers_OnePtrManyIntegers.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../8.4 Pointers_Dereferencing_or_IndirectionOperator.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../8.5 Pointers_AssigningUsingDerefOp.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../8.6 Pointers_sizeof_Test.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../8.7 Pointers_Using_new_delete.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../8.8 Pointers_Using_new_delete_char_array.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../8.9 Pointer_using_new_delete_multiple_elements.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../9.1 ClassHuman.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../9.10 Singleton.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../9.11 MonsterDB_ForceConstructionOnHeap.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../9.12 explicit constructors.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../9.13 SizeOfClass.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../9.14 FriendFunctions.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../9.15 FriendClass.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../9.16 UsingUnions.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../9.17 AggregateInitializationClasses.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../9.18 constexpr class.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../9.2 DemonstratesAbstraction_HidesTrueAge.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../9.3 ClassWithConstructors.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../9.4 Overloaded Constructors.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../9.5 OnlyOverloadedConstructor_NoDefault.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../9.6 Constructor_InitializationLists.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../9.7 MyString_Destructor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../9.8 NoCopyConstructor_CopyMyString.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../9.9 CopyConstructor_MyString.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../9.9.1 CopyConstructor_MyString_Twice.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../9.Ex3.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../9.Ex4 Circle.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="../README.md" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

@@ -1,0 +1,910 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\1.1 Hello World.cpp">
+      <Filter>LESSON01</Filter>
+    </ClCompile>
+    <ClCompile Include="..\1.Quiz4.cpp">
+      <Filter>LESSON01</Filter>
+    </ClCompile>
+    <ClCompile Include="..\2.1 HelloWorldAnalysis.cpp">
+      <Filter>LESSON02</Filter>
+    </ClCompile>
+    <ClCompile Include="..\2.2 UsingNamespaceDecl.cpp">
+      <Filter>LESSON02</Filter>
+    </ClCompile>
+    <ClCompile Include="..\2.3 UsingRestricted.cpp">
+      <Filter>LESSON02</Filter>
+    </ClCompile>
+    <ClCompile Include="..\2.4 FirstFunction_Demo_cout.cpp">
+      <Filter>LESSON02</Filter>
+    </ClCompile>
+    <ClCompile Include="..\2.5 FunctionValueReturnedFromMain.cpp">
+      <Filter>LESSON02</Filter>
+    </ClCompile>
+    <ClCompile Include="..\2.6 Anatomy_BasicIO.cpp">
+      <Filter>LESSON02</Filter>
+    </ClCompile>
+    <ClCompile Include="..\2.Ex3.cpp">
+      <Filter>LESSON02</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3.1 VariablesDemo_MultiplyTwoNumbers.cpp">
+      <Filter>LESSON03</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3.2 VariablesScopeDemo.cpp">
+      <Filter>LESSON03</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3.3 GlobalVariablesDemo.cpp">
+      <Filter>LESSON03</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3.4 Operators_Signed_Unsigned_Overflow.cpp">
+      <Filter>LESSON03</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3.5 Using_sizeof.cpp">
+      <Filter>LESSON03</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3.6 UsingAuto.cpp">
+      <Filter>LESSON03</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3.7 Demo_Constants.cpp">
+      <Filter>LESSON03</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3.8 using constexpr.cpp">
+      <Filter>LESSON03</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3.9 Using_enum_Constants.cpp">
+      <Filter>LESSON03</Filter>
+    </ClCompile>
+    <ClCompile Include="..\3.Ex3 Calculate_Area_Circumference.cpp">
+      <Filter>LESSON03</Filter>
+    </ClCompile>
+    <ClCompile Include="..\4.1 AccessingArrayElements.cpp">
+      <Filter>LESSON04</Filter>
+    </ClCompile>
+    <ClCompile Include="..\4.2 WritingToArrayElements.cpp">
+      <Filter>LESSON04</Filter>
+    </ClCompile>
+    <ClCompile Include="..\4.3 Declaring_Initializing_MD_Arrays.cpp">
+      <Filter>LESSON04</Filter>
+    </ClCompile>
+    <ClCompile Include="..\4.4 Dynamic_Array_std_vector.cpp">
+      <Filter>LESSON04</Filter>
+    </ClCompile>
+    <ClCompile Include="..\4.5 C-Style_HelloWorld.cpp">
+      <Filter>LESSON04</Filter>
+    </ClCompile>
+    <ClCompile Include="..\4.6 UserInput_C_Style_String.cpp">
+      <Filter>LESSON04</Filter>
+    </ClCompile>
+    <ClCompile Include="..\4.7 CPPStrings_std_string.cpp">
+      <Filter>LESSON04</Filter>
+    </ClCompile>
+    <ClCompile Include="..\4.Ex1.cpp">
+      <Filter>LESSON04</Filter>
+    </ClCompile>
+    <ClCompile Include="..\5.1 Check_ArithmeticOperators.cpp">
+      <Filter>LESSON05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\5.2 Operators_PostFix_Prefix.cpp">
+      <Filter>LESSON05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\5.3 Operators_Relational_Equality.cpp">
+      <Filter>LESSON05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\5.4 Operators_Logical_AND_OR.cpp">
+      <Filter>LESSON05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\5.5 Operators_Logical_And_Or_If.cpp">
+      <Filter>LESSON05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\5.6 Operators_Logical_OR.cpp">
+      <Filter>LESSON05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\5.7 Operators_Bitwise.cpp">
+      <Filter>LESSON05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\5.8 Operators_BitwiseShift.cpp">
+      <Filter>LESSON05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\5.9 Operators_CompoundOperators.cpp">
+      <Filter>LESSON05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\5.10 Operator_sizeof.cpp">
+      <Filter>LESSON05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\5.Ex3.cpp">
+      <Filter>LESSON05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\5.Quiz5.cpp">
+      <Filter>LESSON05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.1 Multiply_or_Add_if_else.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.2 checkbounds.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.3 Nested_if_check_Divisor.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.4 WhatDaysOfWeekMean_if_else.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.5 DaysOfWeek_switch_case.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.6 ConditionalOperator_TernaryOperator.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.7 MultiplyOrAdd_goto.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.8 MultiplyOrAdd_while.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.9 MultiplyAdd_do_while.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.10 EnterValuesInAnArray_DisplayArray_for_loop.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.11 MultiplyAdd_for_loop.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.12 RangeBasedFor.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.13 MultiplyAdd_InfiniteLoop_break_continue.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.14 CrossMultiplyTwoArrays_NestedLoops.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.15 IteratingMDArrays_nested_loops.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.16 FibonacciSeries_usingLoops.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.Ex1.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.Ex2.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.Ex3.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\6.Ex4.cpp">
+      <Filter>LESSON06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\7.1 Functions_ComputingAreaCircumference.cpp">
+      <Filter>LESSON07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\7.2 Functions_MultipleParameters_Cylinder.cpp">
+      <Filter>LESSON07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\7.3 Functions_SayingHelloWithoutParamsReturnValue.cpp">
+      <Filter>LESSON07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\7.4 Functions_DefaulParameters_Pi.cpp">
+      <Filter>LESSON07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\7.5 Functions_Recursive_Fibonacci.cpp">
+      <Filter>LESSON07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\7.6 Functions_MultipleReturns.cpp">
+      <Filter>LESSON07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\7.7 Functions_Overloaded_Area_CyclinderCircle.cpp">
+      <Filter>LESSON07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\7.8 Functions_Passing_Arrays.cpp">
+      <Filter>LESSON07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\7.9 Functions_PassingReference.cpp">
+      <Filter>LESSON07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\7.10 Functions_Inline.cpp">
+      <Filter>LESSON07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\7.11 auto function return.cpp">
+      <Filter>LESSON07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\7.12 Functions_Lambda.cpp">
+      <Filter>LESSON07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.1 Pointers_ReferencingOperator.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.2 Pointers_AssigningRefToPtr.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.3 Pointers_OnePtrManyIntegers.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.4 Pointers_Dereferencing_or_IndirectionOperator.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.5 Pointers_AssigningUsingDerefOp.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.6 Pointers_sizeof_Test.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.7 Pointers_Using_new_delete.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.8 Pointers_Using_new_delete_char_array.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.9 Pointer_using_new_delete_multiple_elements.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.10 Pointers_const_calculatingsquare.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.11 Pointers_ArrayVar_IsAddressOfFirst.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.12 Pointers_Arrays_Similarities.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.13 Pointers_InvalidPtr.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.14 Pointers_BetterProgramming.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.15 Pointers_new_exceptionhandler.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.16 Pointers_new_nothrow.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.17 References_Declaring_Initializing.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.18 References_PassingArgsToFunctions.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\8.19 References_Const.cpp">
+      <Filter>LESSON08</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.1 ClassHuman.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.2 DemonstratesAbstraction_HidesTrueAge.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.3 ClassWithConstructors.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.4 Overloaded Constructors.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.5 OnlyOverloadedConstructor_NoDefault.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.6 Constructor_InitializationLists.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.7 MyString_Destructor.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.8 NoCopyConstructor_CopyMyString.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.9 CopyConstructor_MyString.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.9.1 CopyConstructor_MyString_Twice.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.10 Singleton.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.11 MonsterDB_ForceConstructionOnHeap.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.12 explicit constructors.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.13 SizeOfClass.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.14 FriendFunctions.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.15 FriendClass.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.16 UsingUnions.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.17 AggregateInitializationClasses.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.18 constexpr class.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.Ex3.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\9.Ex4 Circle.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
+    <ClCompile Include="..\10.1 SimplePisceanClassHeirarchy.cpp">
+      <Filter>LESSON10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\10.2 Fish_With_protected.cpp">
+      <Filter>LESSON10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\10.3 Fish_WithBaseClassInstantiation.cpp">
+      <Filter>LESSON10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\10.4 DerivedClassOverridingMethod.cpp">
+      <Filter>LESSON10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\10.5 CarMotor.cpp">
+      <Filter>LESSON10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\10.5 InvokingBaseMethods_InSpiteOverride.cpp">
+      <Filter>LESSON10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\10.6 MethodHiding.cpp">
+      <Filter>LESSON10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\10.6 Protected_SuperCar.cpp">
+      <Filter>LESSON10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\10.7 SequenceConstructionDestruction.cpp">
+      <Filter>LESSON10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\10.10 MultipleInheritance_Platypus.cpp">
+      <Filter>LESSON10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\10.Ex1 PlatypusConstructorOrder.cpp">
+      <Filter>LESSON10</Filter>
+    </ClCompile>
+    <ClCompile Include="..\11.1 InvokingSwimUsingFishPtr.cpp">
+      <Filter>LESSON11</Filter>
+    </ClCompile>
+    <ClCompile Include="..\11.2 FishSwim_VirtualMethod.cpp">
+      <Filter>LESSON11</Filter>
+    </ClCompile>
+    <ClCompile Include="..\11.3 WithoutVirtualDestructors.cpp">
+      <Filter>LESSON11</Filter>
+    </ClCompile>
+    <ClCompile Include="..\11.4 VirtualDestructors.cpp">
+      <Filter>LESSON11</Filter>
+    </ClCompile>
+    <ClCompile Include="..\11.5 SizeofBaseClassWithVirtualFunctions.cpp">
+      <Filter>LESSON11</Filter>
+    </ClCompile>
+    <ClCompile Include="..\11.6 FishABC.cpp">
+      <Filter>LESSON11</Filter>
+    </ClCompile>
+    <ClCompile Include="..\11.7 MultipleInheritance_Platypus.cpp">
+      <Filter>LESSON11</Filter>
+    </ClCompile>
+    <ClCompile Include="..\11.8 VirtualInheritance_Platypus.cpp">
+      <Filter>LESSON11</Filter>
+    </ClCompile>
+    <ClCompile Include="..\11.9 VirtualCopyConstructors.cpp">
+      <Filter>LESSON11</Filter>
+    </ClCompile>
+    <ClCompile Include="..\11.Ex3.cpp">
+      <Filter>LESSON11</Filter>
+    </ClCompile>
+    <ClCompile Include="..\11.Quiz1.cpp">
+      <Filter>LESSON11</Filter>
+    </ClCompile>
+    <ClCompile Include="..\12.1 Date_PrefixOperatorsIncDec.cpp">
+      <Filter>LESSON12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\12.2 OperatorConstCharPtr.cpp">
+      <Filter>LESSON12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\12.3 UniquePtr.cpp">
+      <Filter>LESSON12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\12.4 BinaryAdditionSubtractionOperator.cpp">
+      <Filter>LESSON12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\12.5 AddSubAssignment.cpp">
+      <Filter>LESSON12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\12.6 Equality_Inequality_Comparison.cpp">
+      <Filter>LESSON12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\12.7 ComparisonLessThanGreaterThanEqualTo.cpp">
+      <Filter>LESSON12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\12.8 MyStringCopyAssignmentOperator.cpp">
+      <Filter>LESSON12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\12.9 ArraySubscriptOperator_MyString.cpp">
+      <Filter>LESSON12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\12.10 FunctionObjects_Functors_Operator().cpp">
+      <Filter>LESSON12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\12.11 MoveConstructorAssignmentOperator.cpp">
+      <Filter>LESSON12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\12.12 UDLtoKelvin.cpp">
+      <Filter>LESSON12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\13.1 dynamic_cast_Fish.cpp">
+      <Filter>LESSON13</Filter>
+    </ClCompile>
+    <ClCompile Include="..\13.Ex2.cpp">
+      <Filter>LESSON13</Filter>
+    </ClCompile>
+    <ClCompile Include="..\14.1 MacroConstants.cpp">
+      <Filter>LESSON14</Filter>
+    </ClCompile>
+    <ClCompile Include="..\14.2 MacroFunctions.cpp">
+      <Filter>LESSON14</Filter>
+    </ClCompile>
+    <ClCompile Include="..\14.3 TemplateFunctionGetMax.cpp">
+      <Filter>LESSON14</Filter>
+    </ClCompile>
+    <ClCompile Include="..\14.4 HoldsPairWithMain.cpp">
+      <Filter>LESSON14</Filter>
+    </ClCompile>
+    <ClCompile Include="..\14.5 TemplateSpecialization.cpp">
+      <Filter>LESSON14</Filter>
+    </ClCompile>
+    <ClCompile Include="..\14.6 StaticWithinTemplate.cpp">
+      <Filter>LESSON14</Filter>
+    </ClCompile>
+    <ClCompile Include="..\14.7 VariableTemplatesSum.cpp">
+      <Filter>LESSON14</Filter>
+    </ClCompile>
+    <ClCompile Include="..\14.8 Tuple.cpp">
+      <Filter>LESSON14</Filter>
+    </ClCompile>
+    <ClCompile Include="..\14.9 StaticAssert.cpp">
+      <Filter>LESSON14</Filter>
+    </ClCompile>
+    <ClCompile Include="..\14.Ex6 DisplayVariadicTemp.cpp">
+      <Filter>LESSON14</Filter>
+    </ClCompile>
+    <ClCompile Include="..\15.1 ContainerIteratorRelationship.cpp">
+      <Filter>LESSON15</Filter>
+    </ClCompile>
+    <ClCompile Include="..\16.1 STLStringInstantiationCopy.cpp">
+      <Filter>LESSON16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\16.2 AccessingCharElements.cpp">
+      <Filter>LESSON16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\16.3 ConcatenateAdditionAssignmentAppend.cpp">
+      <Filter>LESSON16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\16.4 StringFind.cpp">
+      <Filter>LESSON16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\16.5 StringTruncate.cpp">
+      <Filter>LESSON16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\16.6 StringReverse.cpp">
+      <Filter>LESSON16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\16.7 StringCaseConversion.cpp">
+      <Filter>LESSON16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\16.8 StringLiteralsCPP14.cpp">
+      <Filter>LESSON16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\16.Ex1 IsPalindrom.cpp">
+      <Filter>LESSON16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\16.Ex2 NumVowels.cpp">
+      <Filter>LESSON16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\16.Ex3 AlternateCharUC.cpp">
+      <Filter>LESSON16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\16.Ex4 InsertSpacesInStr.cpp">
+      <Filter>LESSON16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\16.Ex5 FindCharA.cpp">
+      <Filter>LESSON16</Filter>
+    </ClCompile>
+    <ClCompile Include="..\17.1 InstantiatingStdVector.cpp">
+      <Filter>LESSON17</Filter>
+    </ClCompile>
+    <ClCompile Include="..\17.2 InsertingPushBack.cpp">
+      <Filter>LESSON17</Filter>
+    </ClCompile>
+    <ClCompile Include="..\17.3 VectorInsert.cpp">
+      <Filter>LESSON17</Filter>
+    </ClCompile>
+    <ClCompile Include="..\17.4 VectorElementAccessArray.cpp">
+      <Filter>LESSON17</Filter>
+    </ClCompile>
+    <ClCompile Include="..\17.5 VectorPointerSemantics.cpp">
+      <Filter>LESSON17</Filter>
+    </ClCompile>
+    <ClCompile Include="..\17.6 VectorPopBack.cpp">
+      <Filter>LESSON17</Filter>
+    </ClCompile>
+    <ClCompile Include="..\17.7 SizeCapacity.cpp">
+      <Filter>LESSON17</Filter>
+    </ClCompile>
+    <ClCompile Include="..\17.8 DequeInsertionsDeletions.cpp">
+      <Filter>LESSON17</Filter>
+    </ClCompile>
+    <ClCompile Include="..\17.Ex1 QueryVector.cpp">
+      <Filter>LESSON17</Filter>
+    </ClCompile>
+    <ClCompile Include="..\17.Ex3 VectorPackageDimensions.cpp">
+      <Filter>LESSON17</Filter>
+    </ClCompile>
+    <ClCompile Include="..\17.Ex4 DequeListInit.cpp">
+      <Filter>LESSON17</Filter>
+    </ClCompile>
+    <ClCompile Include="..\18.1 InstantiatingList.cpp">
+      <Filter>LESSON18</Filter>
+    </ClCompile>
+    <ClCompile Include="..\18.2 InsertingFrontEnd.cpp">
+      <Filter>LESSON18</Filter>
+    </ClCompile>
+    <ClCompile Include="..\18.3 ListInsert.cpp">
+      <Filter>LESSON18</Filter>
+    </ClCompile>
+    <ClCompile Include="..\18.4 ListErase.cpp">
+      <Filter>LESSON18</Filter>
+    </ClCompile>
+    <ClCompile Include="..\18.5 ListReverse.cpp">
+      <Filter>LESSON18</Filter>
+    </ClCompile>
+    <ClCompile Include="..\18.6 ListSort.cpp">
+      <Filter>LESSON18</Filter>
+    </ClCompile>
+    <ClCompile Include="..\18.7 SortContactsList.cpp">
+      <Filter>LESSON18</Filter>
+    </ClCompile>
+    <ClCompile Include="..\18.8 ForwardList.cpp">
+      <Filter>LESSON18</Filter>
+    </ClCompile>
+    <ClCompile Include="..\18.Ex3 InsertVecInList.cpp">
+      <Filter>LESSON18</Filter>
+    </ClCompile>
+    <ClCompile Include="..\18.Ex4 ListStrings.cpp">
+      <Filter>LESSON18</Filter>
+    </ClCompile>
+    <ClCompile Include="..\19.1 InstantiatingSetMSet.cpp">
+      <Filter>LESSON19</Filter>
+    </ClCompile>
+    <ClCompile Include="..\19.2 InsertSetMSet.cpp">
+      <Filter>LESSON19</Filter>
+    </ClCompile>
+    <ClCompile Include="..\19.3 SetFind.cpp">
+      <Filter>LESSON19</Filter>
+    </ClCompile>
+    <ClCompile Include="..\19.4 MSetErase.cpp">
+      <Filter>LESSON19</Filter>
+    </ClCompile>
+    <ClCompile Include="..\19.5 SetContactsList.cpp">
+      <Filter>LESSON19</Filter>
+    </ClCompile>
+    <ClCompile Include="..\19.6 UnorderedSet.cpp">
+      <Filter>LESSON19</Filter>
+    </ClCompile>
+    <ClCompile Include="..\19.Ex1 ContactsSortedByNums.cpp">
+      <Filter>LESSON19</Filter>
+    </ClCompile>
+    <ClCompile Include="..\19.Ex2 WordAndMeaning.cpp">
+      <Filter>LESSON19</Filter>
+    </ClCompile>
+    <ClCompile Include="..\19.Ex3 SetMSetCompare.cpp">
+      <Filter>LESSON19</Filter>
+    </ClCompile>
+    <ClCompile Include="..\20.1 InstantiatingMapMultimap.cpp">
+      <Filter>LESSON20</Filter>
+    </ClCompile>
+    <ClCompile Include="..\20.2 InsertingElements.cpp">
+      <Filter>LESSON20</Filter>
+    </ClCompile>
+    <ClCompile Include="..\20.3 MapFind.cpp">
+      <Filter>LESSON20</Filter>
+    </ClCompile>
+    <ClCompile Include="..\20.4 MapErase.cpp">
+      <Filter>LESSON20</Filter>
+    </ClCompile>
+    <ClCompile Include="..\20.5 MultiMapWithPredicate.cpp">
+      <Filter>LESSON20</Filter>
+    </ClCompile>
+    <ClCompile Include="..\20.6 unordered_map_sample.cpp">
+      <Filter>LESSON20</Filter>
+    </ClCompile>
+    <ClCompile Include="..\21.1 FunctionObjects.cpp">
+      <Filter>LESSON21</Filter>
+    </ClCompile>
+    <ClCompile Include="..\21.2 StatefulFunctionObject.cpp">
+      <Filter>LESSON21</Filter>
+    </ClCompile>
+    <ClCompile Include="..\21.3 UnaryPredicate.cpp">
+      <Filter>LESSON21</Filter>
+    </ClCompile>
+    <ClCompile Include="..\21.4 UsingUnaryPredicate.cpp">
+      <Filter>LESSON21</Filter>
+    </ClCompile>
+    <ClCompile Include="..\21.5 BinaryFunctionMultiplyRanges.cpp">
+      <Filter>LESSON21</Filter>
+    </ClCompile>
+    <ClCompile Include="..\21.6 BinaryPredicateCaseInsensitive.cpp">
+      <Filter>LESSON21</Filter>
+    </ClCompile>
+    <ClCompile Include="..\21.7 BinarySortPredicate.cpp">
+      <Filter>LESSON21</Filter>
+    </ClCompile>
+    <ClCompile Include="..\21.8 LambdaDisplayContainerForEach.cpp">
+      <Filter>LESSON21</Filter>
+    </ClCompile>
+    <ClCompile Include="..\21.Ex1 DoubleElement.cpp">
+      <Filter>LESSON21</Filter>
+    </ClCompile>
+    <ClCompile Include="..\21.Ex3 BinaryPredSort.cpp">
+      <Filter>LESSON21</Filter>
+    </ClCompile>
+    <ClCompile Include="..\22.1 LambdaDisplayElements.cpp">
+      <Filter>LESSON22</Filter>
+    </ClCompile>
+    <ClCompile Include="..\22.2 LambdaFindIfEvenNumbers.cpp">
+      <Filter>LESSON22</Filter>
+    </ClCompile>
+    <ClCompile Include="..\22.3 LambdaVersionIsMultiple.cpp">
+      <Filter>LESSON22</Filter>
+    </ClCompile>
+    <ClCompile Include="..\22.4 LambdaBinaryFunc.cpp">
+      <Filter>LESSON22</Filter>
+    </ClCompile>
+    <ClCompile Include="..\22.5 LambdaCaseInsensitiveSort.cpp">
+      <Filter>LESSON22</Filter>
+    </ClCompile>
+    <ClCompile Include="..\22.Ex1 LambdaSort.cpp">
+      <Filter>LESSON22</Filter>
+    </ClCompile>
+    <ClCompile Include="..\22.Ex2 LambdAddsNum.cpp">
+      <Filter>LESSON22</Filter>
+    </ClCompile>
+    <ClCompile Include="..\23.1 UsingFind.cpp">
+      <Filter>LESSON23</Filter>
+    </ClCompile>
+    <ClCompile Include="..\23.2 UsingCount.cpp">
+      <Filter>LESSON23</Filter>
+    </ClCompile>
+    <ClCompile Include="..\23.3 UsingSearch.cpp">
+      <Filter>LESSON23</Filter>
+    </ClCompile>
+    <ClCompile Include="..\23.4 FillAndFillN.cpp">
+      <Filter>LESSON23</Filter>
+    </ClCompile>
+    <ClCompile Include="..\23.5 UsingGenerate.cpp">
+      <Filter>LESSON23</Filter>
+    </ClCompile>
+    <ClCompile Include="..\23.6 UsingForEach.cpp">
+      <Filter>LESSON23</Filter>
+    </ClCompile>
+    <ClCompile Include="..\23.7 UsingTransform.cpp">
+      <Filter>LESSON23</Filter>
+    </ClCompile>
+    <ClCompile Include="..\23.8 CopyRemoveRemoveIf.cpp">
+      <Filter>LESSON23</Filter>
+    </ClCompile>
+    <ClCompile Include="..\23.9 ReplaceReplaceIf.cpp">
+      <Filter>LESSON23</Filter>
+    </ClCompile>
+    <ClCompile Include="..\23.10 SortUniqueBS.cpp">
+      <Filter>LESSON23</Filter>
+    </ClCompile>
+    <ClCompile Include="..\23.10 SortUniqueBS2.cpp">
+      <Filter>LESSON23</Filter>
+    </ClCompile>
+    <ClCompile Include="..\23.11 PartitionStablePartition.cpp">
+      <Filter>LESSON23</Filter>
+    </ClCompile>
+    <ClCompile Include="..\23.12 LowerBoundUpperBound.cpp">
+      <Filter>LESSON23</Filter>
+    </ClCompile>
+    <ClCompile Include="..\23.Ex2 IteratorsCopy.cpp">
+      <Filter>LESSON23</Filter>
+    </ClCompile>
+    <ClCompile Include="..\24.1 InstantiatingStack.cpp">
+      <Filter>LESSON24</Filter>
+    </ClCompile>
+    <ClCompile Include="..\24.2 StackPushPop.cpp">
+      <Filter>LESSON24</Filter>
+    </ClCompile>
+    <ClCompile Include="..\24.2 StackPushPop2.cpp">
+      <Filter>LESSON24</Filter>
+    </ClCompile>
+    <ClCompile Include="..\24.3 STLQueue.cpp">
+      <Filter>LESSON24</Filter>
+    </ClCompile>
+    <ClCompile Include="..\24.4 QueueOperations.cpp">
+      <Filter>LESSON24</Filter>
+    </ClCompile>
+    <ClCompile Include="..\24.5 InstantiatingPriorityQueue.cpp">
+      <Filter>LESSON24</Filter>
+    </ClCompile>
+    <ClCompile Include="..\24.6 PriorityQueueOperations.cpp">
+      <Filter>LESSON24</Filter>
+    </ClCompile>
+    <ClCompile Include="..\24.7 PriorityQueueWithPredicate.cpp">
+      <Filter>LESSON24</Filter>
+    </ClCompile>
+    <ClCompile Include="..\25.1 InstantiatingBitSet.cpp">
+      <Filter>LESSON25</Filter>
+    </ClCompile>
+    <ClCompile Include="..\25.2 BitSetOperations.cpp">
+      <Filter>LESSON25</Filter>
+    </ClCompile>
+    <ClCompile Include="..\25.3 InstantiatingVectorBool.cpp">
+      <Filter>LESSON25</Filter>
+    </ClCompile>
+    <ClCompile Include="..\25.4 UsingVectorBool.cpp">
+      <Filter>LESSON25</Filter>
+    </ClCompile>
+    <ClCompile Include="..\25.Ex1 UseBitset.cpp">
+      <Filter>LESSON25</Filter>
+    </ClCompile>
+    <ClCompile Include="..\26.1 MinimalSmartPtr.cpp">
+      <Filter>LESSON26</Filter>
+    </ClCompile>
+    <ClCompile Include="..\26.2 DeepCopyPtr.cpp">
+      <Filter>LESSON26</Filter>
+    </ClCompile>
+    <ClCompile Include="..\26.3 DestructiveCopyPtr.cpp">
+      <Filter>LESSON26</Filter>
+    </ClCompile>
+    <ClCompile Include="..\26.4 UsingUniquePtr.cpp">
+      <Filter>LESSON26</Filter>
+    </ClCompile>
+    <ClCompile Include="..\26.Ex2 FishUniquePtr.cpp">
+      <Filter>LESSON26</Filter>
+    </ClCompile>
+    <ClCompile Include="..\27.1 CoutFormattingNumbers.cpp">
+      <Filter>LESSON27</Filter>
+    </ClCompile>
+    <ClCompile Include="..\27.2 CoutNumPrecision.cpp">
+      <Filter>LESSON27</Filter>
+    </ClCompile>
+    <ClCompile Include="..\27.3 CoutSetWSetFill.cpp">
+      <Filter>LESSON27</Filter>
+    </ClCompile>
+    <ClCompile Include="..\27.4 SimpleInputUsingCin.cpp">
+      <Filter>LESSON27</Filter>
+    </ClCompile>
+    <ClCompile Include="..\27.5 ReadingWordLine.cpp">
+      <Filter>LESSON27</Filter>
+    </ClCompile>
+    <ClCompile Include="..\27.6 CinReadingWordLine.cpp">
+      <Filter>LESSON27</Filter>
+    </ClCompile>
+    <ClCompile Include="..\27.7 UsingGetLine.cpp">
+      <Filter>LESSON27</Filter>
+    </ClCompile>
+    <ClCompile Include="..\27.8 WritingToFile.cpp">
+      <Filter>LESSON27</Filter>
+    </ClCompile>
+    <ClCompile Include="..\27.9 ReadingTextFile.cpp">
+      <Filter>LESSON27</Filter>
+    </ClCompile>
+    <ClCompile Include="..\27.10 BinaryFile.cpp">
+      <Filter>LESSON27</Filter>
+    </ClCompile>
+    <ClCompile Include="..\27.11 StringStream.cpp">
+      <Filter>LESSON27</Filter>
+    </ClCompile>
+    <ClCompile Include="..\28.1 ExceptionSafetyInNew.cpp">
+      <Filter>LESSON28</Filter>
+    </ClCompile>
+    <ClCompile Include="..\28.2 CatchingAType.cpp">
+      <Filter>LESSON28</Filter>
+    </ClCompile>
+    <ClCompile Include="..\28.3 ExceptionOnDivideByZero.cpp">
+      <Filter>LESSON28</Filter>
+    </ClCompile>
+    <ClCompile Include="..\28.4 StackUnwindingOnException.cpp">
+      <Filter>LESSON28</Filter>
+    </ClCompile>
+    <ClCompile Include="..\28.5 CustomException.cpp">
+      <Filter>LESSON28</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="LESSON01">
+      <UniqueIdentifier>{6fb4764e-38d4-4148-9e82-9f523f395ce3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON02">
+      <UniqueIdentifier>{37aa419c-ed85-4163-87f2-4cc45c0aef5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON03">
+      <UniqueIdentifier>{32858e1f-80a4-4833-85b2-00b3975dce34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON04">
+      <UniqueIdentifier>{db1c677e-d758-4d26-bd55-fbb5053e34fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON05">
+      <UniqueIdentifier>{1c67d011-ba93-42c5-97ef-910eb39f636b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON06">
+      <UniqueIdentifier>{fc9aaf68-9f66-4681-95c0-199730c71d12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON07">
+      <UniqueIdentifier>{ab0aa385-4ccf-4698-b503-7f45ed01d1cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON08">
+      <UniqueIdentifier>{30fb2945-e29f-4fe9-87d2-923cf7a73818}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON09">
+      <UniqueIdentifier>{b731142b-ec71-4185-b5a6-e600b3ad21f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON10">
+      <UniqueIdentifier>{69e3d49f-3283-433a-99a8-95808d372620}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON11">
+      <UniqueIdentifier>{e562263d-73ed-448c-a6ee-11784afe67a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON12">
+      <UniqueIdentifier>{38c369d5-f3d9-4be4-a8dc-87df08812b11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON13">
+      <UniqueIdentifier>{d17dd999-557a-4435-8a88-94e68a90eff6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON14">
+      <UniqueIdentifier>{e92b8952-1513-4bce-9d99-9285966b10ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON15">
+      <UniqueIdentifier>{e9280e05-224b-4eda-8b16-37abab490d43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON16">
+      <UniqueIdentifier>{44be48dc-28a0-4e0b-a5fc-55dec438594e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON17">
+      <UniqueIdentifier>{571ed36f-ca88-4491-b215-92690d28fe74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON18">
+      <UniqueIdentifier>{775ed877-d0b9-4f51-a8d0-03cfa9c914be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON19">
+      <UniqueIdentifier>{f24b32b6-e382-4415-85b6-2124402baacd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON20">
+      <UniqueIdentifier>{2564610c-ca4d-43ec-a4e5-a1b4e8ac0340}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON21">
+      <UniqueIdentifier>{f36ab77d-f81a-4a1b-9a5d-67c369d7c195}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON22">
+      <UniqueIdentifier>{4d4b4f07-1b33-4072-a70b-c232f1c4172b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON23">
+      <UniqueIdentifier>{02032bbf-091e-4029-9e71-8ccfd845404b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON24">
+      <UniqueIdentifier>{45dba6b2-7697-46a1-aaaa-c651bd790762}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON25">
+      <UniqueIdentifier>{595c63db-45c0-413b-a6f3-fb98754d70d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON26">
+      <UniqueIdentifier>{8e7569e7-fe77-4a11-bfa3-09fca8437ce7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON27">
+      <UniqueIdentifier>{020c2161-a7b3-41b2-9d36-492718c04128}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LESSON28">
+      <UniqueIdentifier>{62da2f89-66a5-4117-b1b6-1ba732e573e4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
