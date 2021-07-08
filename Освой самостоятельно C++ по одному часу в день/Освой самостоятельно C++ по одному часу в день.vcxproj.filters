@@ -817,6 +817,9 @@
     <ClCompile Include="..\28.5 CustomException.cpp">
       <Filter>LESSON28</Filter>
     </ClCompile>
+    <ClCompile Include="..\9.9.2 CopyConstructor_MyStringnoTwice_Move_Constructor.cpp">
+      <Filter>LESSON09</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />

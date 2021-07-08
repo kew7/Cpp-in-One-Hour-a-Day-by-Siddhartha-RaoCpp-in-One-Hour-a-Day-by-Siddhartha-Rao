@@ -138,6 +138,7 @@
         <itemPath>../9.8 NoCopyConstructor_CopyMyString.cpp</itemPath>
         <itemPath>../9.9 CopyConstructor_MyString.cpp</itemPath>
         <itemPath>../9.9.1 CopyConstructor_MyString_Twice.cpp</itemPath>
+        <itemPath>../9.9.2 CopyConstructor_MyStringnoTwice_Move_Constructor.cpp</itemPath>
         <itemPath>../9.Ex3.cpp</itemPath>
         <itemPath>../9.Ex4 Circle.cpp</itemPath>
       </logicalFolder>
@@ -1217,6 +1218,11 @@
             flavor2="0">
       </item>
       <item path="../9.9.1 CopyConstructor_MyString_Twice.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="../9.9.2 CopyConstructor_MyStringnoTwice_Move_Constructor.cpp"
             ex="false"
             tool="1"
             flavor2="0">
