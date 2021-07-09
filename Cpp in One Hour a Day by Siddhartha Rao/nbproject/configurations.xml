@@ -382,10 +382,7 @@
           <standard>11</standard>
         </ccTool>
       </compileType>
-      <item path="../9.9.2 CopyConstructor_MyStringnoTwice_Move_Constructor.cpp"
-            ex="false"
-            tool="1"
-            flavor2="0">
+      <item path="../9.10 Singleton.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="../README.md" ex="false" tool="3" flavor2="0">
       </item>
