@@ -21,8 +21,8 @@ FC=gfortran
 AS=as
 
 # Macros
-CND_PLATFORM=Cygwin-Windows
-CND_DLIB_EXT=dll
+CND_PLATFORM=GNU-Linux
+CND_DLIB_EXT=so
 CND_CONF=Debug
 CND_DISTDIR=dist
 CND_BUILDDIR=build
@@ -56,16 +56,15 @@ LDLIBSOPTIONS=
 
 # Build Targets
 .build-conf: ${BUILD_SUBPROJECTS}
-	"${MAKE}"  -f nbproject/Makefile-${CND_CONF}.mk ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/cpp_in_one_hour_a_day_by_siddhartha_rao.exe
+	"${MAKE}"  -f nbproject/Makefile-${CND_CONF}.mk ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/cpp_in_one_hour_a_day_by_siddhartha_rao
 
-${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/cpp_in_one_hour_a_day_by_siddhartha_rao.exe: ${OBJECTFILES}
+${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/cpp_in_one_hour_a_day_by_siddhartha_rao: ${OBJECTFILES}
 	${MKDIR} -p ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}
 	${LINK.cc} -o ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/cpp_in_one_hour_a_day_by_siddhartha_rao ${OBJECTFILES} ${LDLIBSOPTIONS}
 
 ${OBJECTDIR}/_ext/5c0/9.9.1_CopyConstructor_MyString_Twice.o: ../9.9.1\ CopyConstructor_MyString_Twice.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/5c0
-	${RM} "$@.d"
-	$(COMPILE.cc) -g -std=c++14 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/5c0/9.9.1_CopyConstructor_MyString_Twice.o ../9.9.1\ CopyConstructor_MyString_Twice.cpp
+	$(COMPILE.cc) -g -std=c++14 -o ${OBJECTDIR}/_ext/5c0/9.9.1_CopyConstructor_MyString_Twice.o ../9.9.1\ CopyConstructor_MyString_Twice.cpp
 
 # Subprojects
 .build-subprojects:
@@ -76,8 +75,3 @@ ${OBJECTDIR}/_ext/5c0/9.9.1_CopyConstructor_MyString_Twice.o: ../9.9.1\ CopyCons
 
 # Subprojects
 .clean-subprojects:
-
-# Enable dependency checking
-.dep.inc: .depcheck-impl
-
-include .dep.inc

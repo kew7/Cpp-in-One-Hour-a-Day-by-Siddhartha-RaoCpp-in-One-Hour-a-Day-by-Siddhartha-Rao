@@ -353,19 +353,26 @@
                    kind="IMPORTANT_FILES_FOLDER">
       <itemPath>Makefile</itemPath>
     </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
     <itemPath>../README.md</itemPath>
   </logicalFolder>
   <sourceRootList>
     <Elem>..</Elem>
+    <Elem>..</Elem>
   </sourceRootList>
   <projectmakefile>Makefile</projectmakefile>
   <confs>
-    <conf name="Debug" type="1" platformSpecific="true">
+    <conf name="Debug" type="1">
       <toolsSet>
         <compilerSet>default</compilerSet>
-        <platform>3</platform>
-        <dependencyChecking>true</dependencyChecking>
+        <dependencyChecking>false</dependencyChecking>
         <rebuildPropChanged>false</rebuildPropChanged>
+        <prependToolCollectionPath>false</prependToolCollectionPath>
       </toolsSet>
       <compileType>
         <cTool>
