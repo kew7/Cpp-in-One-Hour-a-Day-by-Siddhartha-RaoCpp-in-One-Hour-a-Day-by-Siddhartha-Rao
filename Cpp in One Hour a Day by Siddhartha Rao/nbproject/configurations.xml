@@ -382,7 +382,7 @@
           <standard>11</standard>
         </ccTool>
       </compileType>
-      <item path="../9.9.1 CopyConstructor_MyString_Twice.cpp"
+      <item path="../9.9.2 CopyConstructor_MyStringnoTwice_Move_Constructor.cpp"
             ex="false"
             tool="1"
             flavor2="0">

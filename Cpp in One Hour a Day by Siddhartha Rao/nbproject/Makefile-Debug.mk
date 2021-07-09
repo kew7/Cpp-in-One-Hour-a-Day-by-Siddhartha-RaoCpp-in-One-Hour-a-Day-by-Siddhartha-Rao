@@ -35,7 +35,7 @@ OBJECTDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}
 
 # Object Files
 OBJECTFILES= \
-	${OBJECTDIR}/_ext/5c0/9.9.1_CopyConstructor_MyString_Twice.o
+	${OBJECTDIR}/_ext/5c0/9.9.2_CopyConstructor_MyStringnoTwice_Move_Constructor.o
 
 
 # C Compiler Flags
@@ -62,9 +62,9 @@ ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/cpp_in_one_hour_a_day_by_siddhartha_r
 	${MKDIR} -p ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}
 	${LINK.cc} -o ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/cpp_in_one_hour_a_day_by_siddhartha_rao ${OBJECTFILES} ${LDLIBSOPTIONS}
 
-${OBJECTDIR}/_ext/5c0/9.9.1_CopyConstructor_MyString_Twice.o: ../9.9.1\ CopyConstructor_MyString_Twice.cpp
+${OBJECTDIR}/_ext/5c0/9.9.2_CopyConstructor_MyStringnoTwice_Move_Constructor.o: ../9.9.2\ CopyConstructor_MyStringnoTwice_Move_Constructor.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/5c0
-	$(COMPILE.cc) -g -std=c++14 -o ${OBJECTDIR}/_ext/5c0/9.9.1_CopyConstructor_MyString_Twice.o ../9.9.1\ CopyConstructor_MyString_Twice.cpp
+	$(COMPILE.cc) -g -std=c++14 -o ${OBJECTDIR}/_ext/5c0/9.9.2_CopyConstructor_MyStringnoTwice_Move_Constructor.o ../9.9.2\ CopyConstructor_MyStringnoTwice_Move_Constructor.cpp
 
 # Subprojects
 .build-subprojects:

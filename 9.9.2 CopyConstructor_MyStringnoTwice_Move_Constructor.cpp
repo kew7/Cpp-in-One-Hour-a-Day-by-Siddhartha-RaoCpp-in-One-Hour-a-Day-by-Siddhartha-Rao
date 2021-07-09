@@ -85,7 +85,7 @@ MyString Copy(MyString& source) // function
 
 int main()
 {
-	MyString sayHello("Hello World of C++");
+    MyString sayHello("Hello World of C++");
     MyString sayHelloAgain(Copy(sayHello)); // invokes 1x copy, 1x move constructors
-	return 0;
+    return 0;
 }
