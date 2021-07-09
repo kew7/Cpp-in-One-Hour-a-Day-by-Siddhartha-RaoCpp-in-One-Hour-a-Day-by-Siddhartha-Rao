@@ -80,7 +80,7 @@ class MyString
 MyString Copy(MyString& source) // function
 {
 	MyString copyForReturn(source.GetString()); // create copy
-	return copyForReturn; // return by value invokes copy constructor
+	return copyForReturn; // return by value invokes move constructor
 }
 
 int main()
