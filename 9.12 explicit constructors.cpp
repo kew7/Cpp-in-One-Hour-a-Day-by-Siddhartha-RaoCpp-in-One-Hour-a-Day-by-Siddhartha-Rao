@@ -17,7 +17,7 @@ void DoSomething(Human person)
 
 int main()
 {
-   Human kid(10);    // explicit converion is OK
+   Human kid(10);    // explicit conversion is OK
    Human anotherKid = Human(11); // explicit, OK
    DoSomething(kid); // OK
 

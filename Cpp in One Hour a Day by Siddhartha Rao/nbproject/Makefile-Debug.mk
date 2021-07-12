@@ -35,7 +35,7 @@ OBJECTDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}
 
 # Object Files
 OBJECTFILES= \
-	${OBJECTDIR}/_ext/5c0/9.10_Singleton.o
+	${OBJECTDIR}/_ext/5c0/9.12_explicit_constructors.o
 
 
 # C Compiler Flags
@@ -62,9 +62,9 @@ ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/cpp_in_one_hour_a_day_by_siddhartha_r
 	${MKDIR} -p ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}
 	${LINK.cc} -o ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/cpp_in_one_hour_a_day_by_siddhartha_rao ${OBJECTFILES} ${LDLIBSOPTIONS}
 
-${OBJECTDIR}/_ext/5c0/9.10_Singleton.o: ../9.10\ Singleton.cpp
+${OBJECTDIR}/_ext/5c0/9.12_explicit_constructors.o: ../9.12\ explicit\ constructors.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/5c0
-	$(COMPILE.cc) -g -std=c++14 -o ${OBJECTDIR}/_ext/5c0/9.10_Singleton.o ../9.10\ Singleton.cpp
+	$(COMPILE.cc) -g -std=c++14 -o ${OBJECTDIR}/_ext/5c0/9.12_explicit_constructors.o ../9.12\ explicit\ constructors.cpp
 
 # Subprojects
 .build-subprojects:
