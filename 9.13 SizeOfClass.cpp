@@ -39,19 +39,21 @@ public:
     }
 };
 
-class Human
-{
+class Human {
 private:
-   int age;
-   bool gender;
-   MyString name;
+    int age;
+    bool gender;
+    MyString name;
 
 public:
-   Human(const MyString& InputName, int InputAge, bool InputGender)
-      : name(InputName), age (InputAge), gender(InputGender) {}
 
-   int GetAge ()
-   { return age; }
+    Human(const MyString& InputName, int InputAge, bool InputGender)
+    : name(InputName), age(InputAge), gender(InputGender) {
+    }
+
+    int GetAge() {
+        return age;
+    }
 };
 
 int main()
