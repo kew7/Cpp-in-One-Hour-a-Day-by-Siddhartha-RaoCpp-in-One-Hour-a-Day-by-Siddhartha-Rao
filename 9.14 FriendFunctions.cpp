@@ -2,24 +2,22 @@
 #include <string>
 using namespace std;
 
-class Human
-{
+class Human {
 private:
-   friend void DisplayAge(const Human& person);
-   string name;
-   int age;
+    friend void DisplayAge(const Human& person);
+    string name;
+    int age;
 
 public:
-   Human(string humansName, int humansAge) 
-   {
-      name = humansName;
-      age = humansAge;
-   }
+
+    Human(string humansName, int humansAge) {
+        name = humansName;
+        age = humansAge;
+    }
 };
 
-void DisplayAge(const Human& person)
-{
-   cout << person.age << endl;
+void DisplayAge(const Human& person) {
+    cout << person.age << endl;
 }
 
 int main()

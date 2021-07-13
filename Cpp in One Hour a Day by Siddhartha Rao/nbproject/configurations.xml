@@ -382,7 +382,7 @@
           <standard>11</standard>
         </ccTool>
       </compileType>
-      <item path="../9.13 SizeOfClass.cpp" ex="false" tool="1" flavor2="0">
+      <item path="../9.14 FriendFunctions.cpp" ex="false" tool="1" flavor2="0">
       </item>
       <item path="../README.md" ex="false" tool="3" flavor2="0">
       </item>
