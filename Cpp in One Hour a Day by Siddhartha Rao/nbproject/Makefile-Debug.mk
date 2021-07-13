@@ -35,7 +35,7 @@ OBJECTDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}
 
 # Object Files
 OBJECTFILES= \
-	${OBJECTDIR}/_ext/5c0/9.12_explicit_constructors.o
+	${OBJECTDIR}/_ext/5c0/9.13_SizeOfClass.o
 
 
 # C Compiler Flags
@@ -62,9 +62,9 @@ ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/cpp_in_one_hour_a_day_by_siddhartha_r
 	${MKDIR} -p ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}
 	${LINK.cc} -o ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/cpp_in_one_hour_a_day_by_siddhartha_rao ${OBJECTFILES} ${LDLIBSOPTIONS}
 
-${OBJECTDIR}/_ext/5c0/9.12_explicit_constructors.o: ../9.12\ explicit\ constructors.cpp
+${OBJECTDIR}/_ext/5c0/9.13_SizeOfClass.o: ../9.13\ SizeOfClass.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/5c0
-	$(COMPILE.cc) -g -std=c++14 -o ${OBJECTDIR}/_ext/5c0/9.12_explicit_constructors.o ../9.12\ explicit\ constructors.cpp
+	$(COMPILE.cc) -g -std=c++14 -o ${OBJECTDIR}/_ext/5c0/9.13_SizeOfClass.o ../9.13\ SizeOfClass.cpp
 
 # Subprojects
 .build-subprojects:

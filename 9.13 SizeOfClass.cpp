@@ -1,59 +1,60 @@
 #include <iostream>
 #include <string.h>
 using namespace std;
-   
-class MyString
-{
+
+class MyString {
 private:
-   char* buffer;
+    char* buffer;
 
 public:
-   MyString(const char* initString) // default constructor
-   {
-      buffer = NULL;
-	  if(initString != NULL)
-      {
-         buffer = new char [strlen(initString) + 1];
-         strcpy(buffer, initString);
-      }
-   }
 
-   MyString(const MyString& copySource) // copy constructor
-   {
-      buffer = NULL;
-	  if(copySource.buffer != NULL)
-      {
-          buffer = new char [strlen(copySource.buffer) + 1];
-          strcpy(buffer, copySource.buffer);
-      }
-   }
+    MyString(const char* initString) // default constructor
+    {
+        buffer = NULL;
+        if (initString != NULL) {
+            buffer = new char [strlen(initString) + 1];
+            strcpy(buffer, initString);
+        }
+    }
 
-   ~MyString()
-   {
-      delete [] buffer;
-   }
+    MyString(const MyString& copySource) // copy constructor
+    {
+        buffer = NULL;
+        if (copySource.buffer != NULL) {
+            buffer = new char [strlen(copySource.buffer) + 1];
+            strcpy(buffer, copySource.buffer);
+        }
+    }
 
-   int GetLength() 
-   { return strlen(buffer); }
+    ~MyString() {
+        delete [] buffer;
+    }
 
-   const char* GetString()
-   { return buffer; }
+    int GetLength() {
+        return strlen(buffer);
+    }
+
+    const char* GetString() {
+        return buffer;
+    }
 };
 
-class Human
-{
+class Human {
 private:
-   int age;
-   bool gender;
-   MyString name;
+    int age;
+    bool gender;
+    MyString name;
 
 public:
-   Human(const MyString& InputName, int InputAge, bool InputGender)
-      : name(InputName), age (InputAge), gender(InputGender) {}
 
-   int GetAge ()
-   { return age; }
-};
+    Human(const MyString& InputName, int InputAge, bool InputGender)
+    : name(InputName), age(InputAge), gender(InputGender) {
+    }
+
+    int GetAge() {
+        return age;
+    }
+} ;
 
 int main()
 {
